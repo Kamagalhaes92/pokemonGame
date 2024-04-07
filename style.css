@@ -1,0 +1,9 @@
+body {
+  background-color: turquoise;
+}
+
+canvas {
+  align-items: center;
+  display: flex;
+  margin: 80px auto;
+}
